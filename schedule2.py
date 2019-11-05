@@ -2,7 +2,7 @@
 
 #1. What weeks in SAT are uncovered? - This can probably be its own function accepting input 'uncovered'
 #2. Where is Jordan on date - Done
-#3. Who is in SAT on 3/17/20XX - Done
+#3. Who is in SAT on 3/17/20XX - done
 
 
 import datetime
